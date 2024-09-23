@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BRSP%22%2C%22reg%22%3A%22%22%7D
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Fsmart-tv-led-32-hd-samsung-ls32betblggxzd-2-hdmi-1-usb-preto
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_country	Brazil
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	localization	BR
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	1b7a5380-4e7b-42b1-945f-82f652197f2a
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	de276895-4869-4ab2-9475-68eae5dc7671
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	081ffd5f-a5f2-4d42-a58e-fee4c8353ca1
+61c070-6d.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
